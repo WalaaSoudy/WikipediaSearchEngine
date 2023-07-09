@@ -1,0 +1,39 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+   
+  }
+  
+  button {
+    padding: 30px 25px;
+  }
+  
+  #searchResults {
+    margin-top: 20px;
+  }
+  
+  .result {
+    margin-bottom: 10px;
+  }
+  
+  .result h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .result p {
+    margin: 5px 0;
+  }
+  
